@@ -9,8 +9,7 @@
 <body>
 <<<<<<< HEAD
 <h1>╬хЁГ</h1>
-=======
 	<h1>index ют╢о╢ы</h1>
->>>>>>> refs/remotes/origin/master
+
 </body>
 </html>
